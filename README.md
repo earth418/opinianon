@@ -1,5 +1,7 @@
-# Yale SWE MERN Example App
+# Opinanon stack
 
+
+#### (based on a template repository from CS 439)
 ## Overview
 
 The MERN stack is an extremely popular development stack, and is composed of the following components:
@@ -33,9 +35,3 @@ Once you installed all the stuff above, follow these directions:
 4. Open another terminal window and run `yarn dev:client`. This wll serve the client on port `3000`.
 
 After completing the steps above, you should be able to go to `http://localhost:3000` on your browser and see the app. Have fun making doggos!
-
-## Overview
-
-We have also provided a video of one of our walkthrough sessions of this codebase below.
-
-[![MERN Stack Walkthrough](https://user-images.githubusercontent.com/45532884/154608096-ab88dacd-f8e3-4dbf-8261-8ef4f8d77afc.png)](https://www.youtube.com/watch?v=7e191pUD0ks "MERN Stack Walkthrough")
